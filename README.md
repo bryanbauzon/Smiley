@@ -2,7 +2,7 @@
 
 A simple app state management using Provider.
 
-https://github.com/bryanbauzon/flutter_state_management/issues/1#issue-593800392
+![provider](https://user-images.githubusercontent.com/35340090/78435231-d9ddda80-76a8-11ea-93a9-dfd71b6af232.jpg)
 
 
 ## Getting Started
