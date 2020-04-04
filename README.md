@@ -1,6 +1,6 @@
-# state_management
+# Flutter - Simple State Management
 
-A new Flutter project.
+A simple state management using Provider
 
 ## Getting Started
 
