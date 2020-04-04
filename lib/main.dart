@@ -91,7 +91,7 @@ class App extends StatelessWidget{
                 ),
               ),
               Divider(),
-              Text((provider.value != 20)?"${provider.value}":"You have reached the maximum value!",style: TextStyle(fontSize: (provider.value != 20)?30:20,fontStyle: FontStyle.italic)),
+              Text((provider.value != 20)?"${provider.value}":"You have reached the maximum value!",style: TextStyle(fontSize:20,fontStyle: FontStyle.italic)),
               Divider(),
               FloatingActionButton(
                 onPressed: (){
