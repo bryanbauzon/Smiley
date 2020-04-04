@@ -1,6 +1,7 @@
-# Flutter - Simple State Management
+# Flutter - Simple App State Management
 
-A simple state management using Provider
+A simple app state management using Provider
+
 
 ## Getting Started
 
