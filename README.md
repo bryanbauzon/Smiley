@@ -1,6 +1,8 @@
 # Flutter - Simple App State Management
 
-A simple app state management using Provider
+A simple app state management using Provider.
+
+https://github.com/bryanbauzon/flutter_state_management/issues/1#issue-593800392
 
 
 ## Getting Started
