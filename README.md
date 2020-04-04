@@ -4,6 +4,9 @@ A simple app state management using Provider.
 
 ![provider](https://user-images.githubusercontent.com/35340090/78435231-d9ddda80-76a8-11ea-93a9-dfd71b6af232.jpg)
 
+![image](https://user-images.githubusercontent.com/35340090/78439280-034b3600-76aa-11ea-8a56-931c8a7976c0.png)
+
+
 
 ## Getting Started
 
