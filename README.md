@@ -1,4 +1,4 @@
-# Flutter - Simple App State Management
+# Smiley
 
 A simple app state management using Provider.
 
